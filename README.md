@@ -7,7 +7,7 @@ The dataset includes job titles, salaries, locations, and in-demand skills—off
 
 
 # Dashboard
-![alt text](image.png)
+![alt text](/assets/image.png)
 
 *A data-powered salary dashboard that helps job seekers and employers understand fair compensation for data roles. Features include salary breakdowns by experience, location, and schedule—type ensuring transparency in the job market*
 
@@ -33,7 +33,7 @@ The dataset includes real-world 2023 salary data for data-related jobs, covering
 ## 📉 Charts
 ### 📊 Salary Comparison by Job Title (Bar Chart)
 
-![alt text](image-1.png)
+![alt text](/assets/image-1.png)
 
 * **Excel Tools and Tecnique:** Transformed raw data into clear bar charts (formatted salaries) with a user-friendly layout.
 
@@ -45,7 +45,7 @@ The dataset includes real-world 2023 salary data for data-related jobs, covering
 
 ### 🌍 Country Median Salaries - Map Chart
 
-![alt text](image-2.png)
+![alt text](/assets/image-2.png)
 
 * **Excel Tools and Tecnique:** Mapped worldwide median salary distributions using Excel’s built-in map charts.
 
@@ -76,11 +76,11 @@ The dataset includes real-world 2023 salary data for data-related jobs, covering
 
 ### 📋 Supporting Tables
 
-![alt text](image-3.png)
+![alt text](/assets/image-3.png)
 
 ### 📉 Dashboard Implementation 
 
-![alt text](image-4.png)
+![alt text](/assets/image-4.png)
 
 ## ⏰ Job Schedule Type Filtering (Formula)
 
