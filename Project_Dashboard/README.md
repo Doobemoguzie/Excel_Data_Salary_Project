@@ -12,7 +12,7 @@ The dataset includes job titles, salaries, locations, and in-demand skills—off
 *A data-powered salary dashboard that helps job seekers and employers understand fair compensation for data roles. Features include salary breakdowns by experience, location, and schedule—type ensuring transparency in the job market*
 
 ### Dashboard File
-📂 [Salary_dashbord_file](data_jobs_salary_all.xlsx)
+📂 [Salary_dashbord_file](/Excel_Data_Salary_Project/assets/data_jobs_salary_all.xlsx)
 
 ## Excel Skills Used
 
